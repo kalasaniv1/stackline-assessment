@@ -1,6 +1,6 @@
 {
-  "name": "assessment",
-  "version": "0.1.0",
+  "name": "stackline-assessment",
+  "version": "1.0.0",
   "private": true,
   "homepage": "https://kalasaniv1.github.io/stackline-assessment",
   "dependencies": {
