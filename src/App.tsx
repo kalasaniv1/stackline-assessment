@@ -26,7 +26,7 @@ const App: React.FC = () => {
         <AppBar position="static">
           <Toolbar>
             <Box sx={{ display: 'flex', alignItems: 'center' }}>
-              <img src='/stackline_logo.svg' alt="Logo" style={{ height: 40 }} />
+                <img src={process.env.PUBLIC_URL +'/stackline_logo.svg'} alt="Logo" style={{ height: 40 }} />
             </Box>
           </Toolbar>
         </AppBar>
